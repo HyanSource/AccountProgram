@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AccountProgram\AccountProgram\obj\Debug\AccountProgram.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AccountProgram\AccountProgram\obj\Debug\AccountProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AccountProgram\AccountProgram\bin\Debug\AccountProgram.exe.config
+C:\Users\User\source\repos\AccountProgram\AccountProgram\bin\Debug\AccountProgram.exe
+C:\Users\User\source\repos\AccountProgram\AccountProgram\bin\Debug\AccountProgram.pdb
+C:\Users\User\source\repos\AccountProgram\AccountProgram\obj\Debug\AccountProgram.exe
+C:\Users\User\source\repos\AccountProgram\AccountProgram\obj\Debug\AccountProgram.pdb
